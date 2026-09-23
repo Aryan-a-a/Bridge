@@ -2,6 +2,8 @@
 
 **Live: https://helper-495902.web.app**
 
+> Co-developed with Aly ([@alyanany97](https://github.com/alyanany97)) for GDG Hacks. This is my copy of the project; the original repository is [alyanany97/bridge](https://github.com/alyanany97/bridge).
+
 Bridge connects people with surplus food and clothing to people nearby who need it, with volunteer drivers handling delivery. Built for a hackathon.
 
 ---
@@ -44,4 +46,4 @@ It turns a 2-minute chore into a 10-second photo.
 | AI | Gemini Vision (gemini-2.5-flash) |
 | Maps | Leaflet + OSRM |
 | Geocoding | Nominatim |
-| Hosting | Firebase Hosting |# Bridge
+| Hosting | Firebase Hosting |
